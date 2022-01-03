@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@700&display=swap");
+
 * {
   margin: 0px;
   padding: 10px;
@@ -25,7 +27,7 @@ section {
   font-size: 72px;
   text-align: center;
   font-weight: 700;
-  font-family: "Good Times", arial;
+  font-family: "Exo 2", sans-serif;
   text-shadow: 4px 4px 4px rgb(109, 105, 105);
   color: #d81313;
 }
